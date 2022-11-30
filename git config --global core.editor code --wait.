@@ -1,0 +1,17 @@
+[33mcommit d100e3a63deb2025c695f43ec628d714a1b24e0a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Gabilcl <gabiluk9@gmail.com>
+Date:   Wed Nov 30 17:57:17 2022 +0200
+
+    Edit README.MD and hello_world.txt
+
+[33mcommit 6c4199064b457462c7e975c64fb4ef4597a1f694[m
+Author: Gabilcl <gabiluk9@gmail.com>
+Date:   Wed Nov 30 17:30:52 2022 +0200
+
+    Add hello_world.txt
+
+[33mcommit 235d7b388fa2b72a8ef9bb2e902094cbacfc4e4b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gabilcl <117573153+Gabilcl@users.noreply.github.com>
+Date:   Wed Nov 30 16:22:37 2022 +0200
+
+    Initial commit
